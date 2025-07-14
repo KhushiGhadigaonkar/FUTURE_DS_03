@@ -21,6 +21,6 @@ A Data Science project analyzing real student satisfaction survey data using pan
 ---
 
 ## ✅ Task Completed as part of:
-Future Interns - Data Science & Analytics Virtual Internship (Task 4)
+Future Interns - Data Science & Analytics Virtual Internship (Task 3)
 
 By: **Khushi Ghadigaonkar**
